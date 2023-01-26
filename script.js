@@ -17,6 +17,7 @@
 // stash odbaci samo ono što smo spremili nakon zadnjeg commita
 // git fetch spoji taj dev koji smo mi napravili na git hubu
 
+dosta zanimljivo sve skupa
 
 
 console.log(window);
